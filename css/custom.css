@@ -2,27 +2,8 @@
 	z-index: 2;
 }
 
-.table thead th,
-.text-wrap table thead th {
-	border-bottom-width: 1px;
-	padding-top: .5rem;
-	padding-bottom: .5rem;
-}
+        
 
-.table th,
-.text-wrap table th {
-	color: #2e3138;
-	text-transform: uppercase;
-	font-size: 0.875rem;
-	font-weight: 400;
-}
-        
-.login {
-            background-color: #fff;
-            padding: 50px;
-            box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-        }
-        
 .fw-bold {
             font-weight: bold;
         }
